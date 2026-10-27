@@ -1,6 +1,6 @@
 # Bash Scripts – Phase 1
 
-![CI](https://github.com/YOUR_USERNAME/bash-scripts/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/shayedry-prog/bash-scripts/actions/workflows/ci.yml/badge.svg)
 
 A small collection of practical Bash scripts for Linux system administration, with automated linting and tests on every push.
 
@@ -14,7 +14,7 @@ A small collection of practical Bash scripts for Linux system administration, wi
 ## Getting started
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/bash-scripts.git
+git clone https://github.com/shayedry-prog/bash-scripts.git
 cd bash-scripts
 chmod +x scripts/*.sh tests/*.sh
 ```
